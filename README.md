@@ -5,9 +5,9 @@ For private audits or security consulting, reach out to me on X (formerly Twitte
 
 ### Competitive Audits
 
-| Contest        | Platform  | Category                                   | Ranking      | Findings |
-|----------------|-----------|-------------------------------------------|----------------|----------|
-| [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)   | Code4rena  | NFT Game | **#68**/232 | [1M](https://github.com/code-423n4/2024-07-traitforge-findings/issues/223) |
+| Contest        | Platform  | Category                                   | Ranking      | Findings | Report |
+|----------------|-----------|--------------------------------------------|--------------|----------|--------|
+| [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)   | [Code4rena](https://code4rena.com/)  | NFT Game | **#68**/232 | [1M](https://github.com/code-423n4/2024-07-traitforge-findings/issues/223) | [📝](https://code4rena.com/reports/2024-07-traitforge) |
 
 ### Bug Bounties
 | Protocol | Category | Severity |
